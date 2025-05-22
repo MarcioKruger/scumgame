@@ -1,0 +1,91 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.navbar{
+    background-color: #e15f41;
+}
+
+.navbar-brand,
+.nav-link,
+.navbar-brand:hover {
+    color: aliceblue;
+}
+
+.nav .nav-link.active{
+    background-color: #fff;
+    color: #e15f41;
+}
+.nav-link:hover{
+    color: #6e1804;
+}
+
+
+.navbar-toggler{
+    background-color: #ffeae6;
+}
+
+.section-title{
+    font-family: Pacifico, cursive;;
+}
+
+.section-title span{
+    color: #e15f41;
+}
+
+#sobre,
+#images{
+    background-color: #e15e4171;
+}
+
+#servidores{
+    background-color: #e15e414f;
+}
+
+#servidores span{
+    color: #e15f41;
+}
+
+#images .nav-link{
+    color: #6e1704b4;
+}
+
+#images .nav-link:hover{
+    color: #ca1111;
+}
+
+.nav-imagens .nav-link.active{
+    background-color: #ffffff;
+    color: #fff;
+}
+
+.nav-imagens .nav-link:hover{
+    color:#fff
+}
+
+#contato{
+    background-color: #e15e414f;
+}
+
+.social-links{
+    color: #e15f41;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
+
+#contato button{
+    color: #fff;
+    background-color: #e15f41;
+    width: 100%;
+}
+
+#contato button:hover{
+    background-color: #6e1804;
+}
